@@ -6,8 +6,8 @@ namespace MultiplayerVanillaFactionsExpandedEmpirePatch.Source.Mods;
 /// <summary>
 ///     Multiplayer Patch for Vanilla Factions Expanded - Empire by Oskar Potocki, xrushha, legodude17, Allie, Last Update:
 ///     28 Sep @ 1:29pm 2026
-///     https://steamcommunity.com/sharedfiles/filedetails/?id=2938820380
-///     https://github.com/Vanilla-Expanded/VanillaFactionsExpanded-Empire
+///     <see href="https://steamcommunity.com/sharedfiles/filedetails/?id=2938820380" />
+///     <see href="https://github.com/Vanilla-Expanded/VanillaFactionsExpanded-Empire" />
 ///     Based on the original implementation from Multiplayer-Compatibility (Source_Referenced/VanillaFactionsEmpire.cs),
 ///     updated for the current VFEEmpire assembly.
 ///     Domain logic lives in the Empire*.cs files; this class only bootstraps registration.
